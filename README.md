@@ -5,7 +5,7 @@ Team Members
 Member 1: Jannath shirin - Ilahia college of engineering
 
 Hosted Project Link
-[mention your project hosted link here]
+https://jannathshirin.github.io/python-project/
 
 Project Description
 many students are hesitate to ask doubt in class so, doubts are lost in watsapp group 
